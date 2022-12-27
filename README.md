@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsmenelvin
 - 👀 I’m interested in coding and playing games
-- 🌱 I’m currently learning HTML, Css, Js an Ruby
+- 🌱 I’m currently learning HTML, Css, Js and Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nelvinmonares@hotmail.com
 
