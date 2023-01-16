@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nelvin Monares
 - 👀 I’m interested in coding and playing games
 - 🌱 I’m currently learning HTML, Css, Js and Ruby
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Not currently interested on collaborating
 - 📫 How to reach me nelvinmonares@hotmail.com
 
 <!---
